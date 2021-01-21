@@ -25,23 +25,23 @@ Note that 'data_Table S3', 'data_Table S4', 'data_Table S5', 'data_Figure 1', 'd
 
 The code was written in R (version 3.6.3). The following packages are needed to run the scripts:
 
-‒	readxl
-‒	data.table
-‒	dplyr
-‒	tidyr
-‒	reshape2
-‒	openxlsx
-‒	fitdistrplus
-‒	lme4
-‒	DHARMa
-‒	broom.mixed
-‒	ggeffects
-‒	splines
-‒	mgcViz
-‒	mgcv
-‒	oddsratio
-‒	itsadug
-‒	ggplot2
+* readxl
+*	data.table
+*	dplyr
+*	tidyr
+*	reshape2
+*	openxlsx
+*	fitdistrplus
+*	lme4
+*	DHARMa
+*	broom.mixed
+*	ggeffects
+*	splines
+*	mgcViz
+*	mgcv
+*	oddsratio
+*	itsadug
+*	ggplot2
 
 ## Analysis
 
@@ -152,10 +152,10 @@ As the original database containing confidential patient information cannot be m
   
 ## Code authors
 
-‒	Wei Wang
-‒	Yan Wang
-‒	Maria Litvinova
-‒	Marco Ajelli
+*	Wei Wang
+*	Yan Wang
+*	Maria Litvinova
+*	Marco Ajelli
 
 ## Acknowledgments
 
