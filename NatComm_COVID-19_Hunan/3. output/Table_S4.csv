@@ -1,0 +1,4 @@
+"","Period","Sample size","Parameters","Mean","IQR"
+"1","Overall","245","shape = 9.68(0.86), rate = 0.48(0.04), shift=14.5","5.5","-5.1 ~ 19.8"
+"2","January 5 - January 23","111","shape = 19.07(2.54), rate = 0.89(0.12), shift=14.5","7","-1.6 ~ 17.6"
+"3","January 24 - April 2","110","shape = 6.59(0.87), rate = 0.35(0.05), shift=14.5","4.1","-7.3 ~ 20.9"
