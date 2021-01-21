@@ -8,7 +8,7 @@ The R scripts are written assuming you have the following folder structure:
 
 ```
 NatComm_COVID-19_Hunan
-│         0. README.pdf
+│    0. README.pdf
 └─── 1. input
 └─── 2. code
 └─── 3. output
