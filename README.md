@@ -6,11 +6,13 @@ Shixiong Hu, Wei Wang, Yan Wang, Maria Litvinova, Kaiwei Luo, Lingshuang Ren, Qi
 
 The R scripts are written assuming you have the following folder structure:
 
+```
 NatComm_COVID-19_Hunan
 │         0. README.pdf
 └─── 1. input
 └─── 2. code
 └─── 3. output
+```
 
 Where
 - All data needed to perform the analyses is reported in folder '1.  input';
