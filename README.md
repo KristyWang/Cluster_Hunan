@@ -71,7 +71,7 @@ Table 1, Figure S1 and Table S2 present descriptive analysis generated simply by
   
 ### 2. Time-to-key-event distribution and pre-symptomatic transmission
 
-###2.1 Incubation period
+### 2.1 Incubation period
 
 The data and code used to fit the distribution of incubation period are available in "data_Table S3.xlsx" and "Code_Table_S3.R", respectively. There are three sheets in "data_Table S3.xlsx". Sheet "Main analysis" contains 268 records for the main analysis. Sheet "Sensitivity analysis 1" and "Sensitivity analysis 2" contains 258 and 251 records for the sensitivity analyses (Supporting Information Tab. S3). 
 
